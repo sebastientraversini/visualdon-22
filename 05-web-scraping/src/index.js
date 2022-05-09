@@ -46,3 +46,4 @@ const urllaptop =	"https://www.webscraper.io/test-sites/e-commerce/allinone/comp
 	await browser.close();
 	console.log(price);
 })();
+ 
